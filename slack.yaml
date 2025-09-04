@@ -1,5 +1,5 @@
 global:
-    prefix: ":postal_horn:"
+    prefix: ":zap:"
     slack: codegroove-workspace.slack.com
 
 channels:
