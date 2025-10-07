@@ -1,7 +1,6 @@
 global:
-    prefix: ":zap:"
-    slack: codegroove-workspace.slack.com
-    domain: codegroove.dev
+    team_id: T09CJ7X7T7Y
+    email_domain: codegroove.dev
 
 channels:
     goose:
