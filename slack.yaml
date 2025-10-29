@@ -1,6 +1,7 @@
 global:
     team_id: T09CJ7X7T7Y
     email_domain: codegroove.dev
+    reminder_dm_delay: 1
 
 channels:
     goose:
