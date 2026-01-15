@@ -3,3 +3,8 @@ global:
 
 users:
   tstromberg: "thomstrom"
+
+channels:
+  test:
+    repos:
+      - "*"  
